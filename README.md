@@ -9,9 +9,7 @@ IEEE CEC 2021.
 
 ## How to cite
 
-Lijun Sun, Chao Lyu, Yuhui Shi and Chin-Teng Lin, 
-"Multiple-preys pursuit based on biquadratic assignment problem," 
-2021 IEEE Congress on Evolutionary Computation (CEC), 2021, pp. ?-?, doi: ?.
+Lijun Sun, Chao Lyu, Yuhui Shi and Chin-Teng Lin, "Multiple-Preys Pursuit based on Biquadratic Assignment Problem," 2021 IEEE Congress on Evolutionary Computation (CEC), 2021, pp. 1585-1592, doi: 10.1109/CEC45853.2021.9504823.
 
 
 ## How to run
